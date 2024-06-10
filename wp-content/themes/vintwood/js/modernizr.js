@@ -1,5 +1,5 @@
 /* Modernizr 2.8.3 (Custom Build) | MIT & BSD
- * Build: http://modernizr.com/download/#-touch-shiv-cssclasses-addtest-prefixed-teststyles-testprop-testallprops-hasevent-prefixes-domprefixes-load
+ * Build: https://modernizr.com/download/#-touch-shiv-cssclasses-addtest-prefixed-teststyles-testprop-testallprops-hasevent-prefixes-domprefixes-load
  */
 ;
 
