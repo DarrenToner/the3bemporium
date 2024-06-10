@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments for The 3B Emporium	</title>
-	<atom:link href="https://the3bemporium/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://the3bemporium/</link>
+	<atom:link href="https://the3bemporium.com/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://the3bemporium.com/</link>
 	<description></description>
 	<lastBuildDate>Sat, 08 Jun 2024 21:49:35 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		Comment on Hello world! by A WordPress Commenter		</title>
-		<link>https://the3bemporium/hello-world/#comment-1</link>
+		<link>https://the3bemporium.com/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
 		<pubDate>Sat, 08 Jun 2024 21:49:35 +0000</pubDate>
-		<guid isPermaLink="false">https://the3bemporium/?p=1#comment-1</guid>
+		<guid isPermaLink="false">https://the3bemporium.com/?p=1#comment-1</guid>
 
 					<description><![CDATA[Hi, this is a comment.
 To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
@@ -38,11 +38,11 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.</p>
 		<item>
 		<title>
 		Comment on Faucibus orci diam by admin		</title>
-		<link>https://the3bemporium/faucibus-orci-diam/#comment-4</link>
+		<link>https://the3bemporium.com/faucibus-orci-diam/#comment-4</link>
 
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 13 Sep 2018 09:29:21 +0000</pubDate>
-		<guid isPermaLink="false">https://the3bemporium/faucibus-orci-diam/#comment-4</guid>
+		<guid isPermaLink="false">https://the3bemporium.com/faucibus-orci-diam/#comment-4</guid>
 
 					<description><![CDATA[test]]></description>
 			<content:encoded><![CDATA[<p>test</p>
@@ -52,11 +52,11 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.</p>
 		<item>
 		<title>
 		Comment on Hello world! by admin		</title>
-		<link>https://the3bemporium/hello-world-2/#comment-3</link>
+		<link>https://the3bemporium.com/hello-world-2/#comment-3</link>
 
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 06 Sep 2018 13:27:34 +0000</pubDate>
-		<guid isPermaLink="false">https://the3bemporium/hello-world-2/#comment-3</guid>
+		<guid isPermaLink="false">https://the3bemporium.com/hello-world-2/#comment-3</guid>
 
 					<description><![CDATA[test]]></description>
 			<content:encoded><![CDATA[<p>test</p>
@@ -66,11 +66,11 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.</p>
 		<item>
 		<title>
 		Comment on Hello world! by A WordPress Commenter		</title>
-		<link>https://the3bemporium/hello-world-2/#comment-2</link>
+		<link>https://the3bemporium.com/hello-world-2/#comment-2</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
 		<pubDate>Thu, 16 Aug 2018 08:29:48 +0000</pubDate>
-		<guid isPermaLink="false">https://the3bemporium/hello-world-2/#comment-2</guid>
+		<guid isPermaLink="false">https://the3bemporium.com/hello-world-2/#comment-2</guid>
 
 					<description><![CDATA[Hi, this is a comment.
 To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.

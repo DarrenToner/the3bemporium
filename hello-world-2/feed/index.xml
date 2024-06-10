@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Hello world!	</title>
-	<atom:link href="https://the3bemporium/hello-world-2/feed/" rel="self" type="application/rss+xml" />
-	<link>https://the3bemporium/hello-world-2/</link>
+	<atom:link href="https://the3bemporium.com/hello-world-2/feed/" rel="self" type="application/rss+xml" />
+	<link>https://the3bemporium.com/hello-world-2/</link>
 	<description></description>
 	<lastBuildDate>Thu, 06 Sep 2018 13:27:34 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		By: admin		</title>
-		<link>https://the3bemporium/hello-world-2/#comment-3</link>
+		<link>https://the3bemporium.com/hello-world-2/#comment-3</link>
 
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 06 Sep 2018 13:27:34 +0000</pubDate>
-		<guid isPermaLink="false">https://the3bemporium/hello-world-2/#comment-3</guid>
+		<guid isPermaLink="false">https://the3bemporium.com/hello-world-2/#comment-3</guid>
 
 					<description><![CDATA[test]]></description>
 			<content:encoded><![CDATA[<p>test</p>
@@ -34,11 +34,11 @@
 		<item>
 		<title>
 		By: A WordPress Commenter		</title>
-		<link>https://the3bemporium/hello-world-2/#comment-2</link>
+		<link>https://the3bemporium.com/hello-world-2/#comment-2</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
 		<pubDate>Thu, 16 Aug 2018 08:29:48 +0000</pubDate>
-		<guid isPermaLink="false">https://the3bemporium/hello-world-2/#comment-2</guid>
+		<guid isPermaLink="false">https://the3bemporium.com/hello-world-2/#comment-2</guid>
 
 					<description><![CDATA[Hi, this is a comment.
 To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.

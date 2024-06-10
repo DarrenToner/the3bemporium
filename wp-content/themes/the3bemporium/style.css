@@ -16,7 +16,7 @@
 
 .fancy-border-img img {
     border: 15px solid;
-    border-image: url(https://the3bemporium/wp-content/themes/vintwood/img/patterns/portfolio-pattern.png);
+    border-image: url(https://the3bemporium.com/wp-content/themes/vintwood/img/patterns/portfolio-pattern.png);
     border-image-slice: 15;
     border-image-repeat: round;
     box-shadow: 0px 0px 5px 1px rgba(0, 0, 0, .15);
