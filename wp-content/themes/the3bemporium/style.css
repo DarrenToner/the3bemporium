@@ -1,0 +1,99 @@
+/*
+* Theme Name: The 3B Emporium
+* Theme URI: https://darrentoner.com/
+* Author: Darren Toner
+* Author URI: https://darrentoner/
+* Description: The 3B Emporium - Laser Engraving
+* Version: 1.1
+* Tags: one-column, two-columns, right-sidebar, flexible-header, accessibility-ready, custom-colors, custom-header, custom-menu, custom-logo, editor-style, featured-images, footer-widgets, post-formats, rtl-language-support, sticky-post, theme-options, threaded-comments, translation-ready
+* Text Domain: the3bemporium
+* Template: vintwood
+
+*/
+
+/* =Theme customization starts here
+-------------------------------------------------------------- */
+
+.fancy-border-img img {
+    border: 15px solid;
+    border-image: url(https://the3bemporium/wp-content/themes/vintwood/img/patterns/portfolio-pattern.png);
+    border-image-slice: 15;
+    border-image-repeat: round;
+    box-shadow: 0px 0px 5px 1px rgba(0, 0, 0, .15);
+    max-width: calc(100% - 30px);
+    transition: 0.3s transform ease-in-out;
+}
+
+
+#client-imgs .vc_column_container:nth-child(odd) .fancy-border-img img:hover {
+    transform: rotate(2deg) scale(1.025);
+}
+
+#client-imgs .vc_column_container:nth-child(even) .fancy-border-img img:hover {
+    transform: rotate(-3deg) scale(1.025);
+}
+
+.cws_info_wrapper .cws_info_title:before,
+#main .cws-widget .widget-title:before {
+    border-color: #39445a #39445a #39445a transparent;
+}
+
+.cws_info_wrapper .cws_info_title:after,
+#main .cws-widget .widget-title:after {
+    border-color: #39445a transparent #39445a #39445a;
+}
+
+.mobile_menu_wrapper,
+.cws_vc_shortcode_pb_progress,
+.posts_grid.cws_portfolio_posts_grid .item .item_content .post_media:after,
+.main-nav-container .sub-menu .cws_megamenu_item .widgettitle:before,
+.main-nav-container .sub-menu .cws_megamenu_item .widgettitle:after,
+.cws_pricing_plan .pricing_title,
+.cws_pricing_plan:after,
+.cws_service_icon_wrapper:before,
+.item.cws_staff_post .cws_staff_post_info .cws_staff_post_title a,
+.item.cws_staff_post .cws_staff_post_info .cws_staff_post_title .no_link,
+.testimonial.style_2 .testimonial_name,
+.news .item .post_media .inline_date .day,
+.news.posts_grid_1 .item:not(.format-link):not(.format-quote) .post_title a,
+.news.posts_grid_medium .item:not(.format-link):not(.format-quote) .post_title a,
+.news.posts_grid_small .item:not(.format-link):not(.format-quote) .post_title a,
+.comment_info_header .comment-meta .author-name,
+.grid_row.single_related .item .post_title a,
+.grid_row.related_portfolio .item .post_title a,
+.product .summary form.cart .quantity~.single_add_to_cart_button:before,
+.product .summary form.cart .quantity~.single_add_to_cart_button:after,
+.wc-tabs>li.active>a,
+.tabs.wc-tabs:before,
+#main .cws-widget .widget-title,
+.cws-widget ul li:hover>a span.post_count:before,
+.price_slider .ui-slider-handle:before,
+.footer_container .cws-widget ul.menu li:before,
+.footer_container .cws-widget ul.menu li:after,
+.cws_info_wrapper .cws_info_title,
+.cws_info_wrapper.star_divider .cws_content:before,
+.date-content span:first-child {
+    background-color: #39445a;
+}
+
+.recaptchanotice p{
+    font-size: 12px !important;
+    margin-top: 1rem;
+    line-height: 1rem;
+}
+
+.recaptchanotice a{
+    text-decoration: underline;
+}
+
+.grecaptcha-badge { 
+    visibility: hidden !important;
+}
+
+.footer-copyright {
+    text-align: center;
+}
+
+.footer-copyright a{
+    color: #cb633a;
+}
