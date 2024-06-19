@@ -3585,8 +3585,8 @@ function cws_fix_styles_init(){
 
 	jQuery('.cws-widget ul li.cat-item').parent('ul:not(.children)').addClass('category_list');
 
-	jQuery('ul.hexagon_style').find('li').prepend("<span class='list-hexagon'><svg class='svg-hexagon' xmlns='https://www.w3.org/2000/svg'><g><path stroke-width='1' stroke-opacity='null' stroke='red' fill-opacity='0' fill='#fff' d='m8.62519,0.63895l6.62517,4.07292l0,7.32256l-6.62517,4.06325l-6.62517,-4.06325c0,-3.05108 0,-4.37804 0,-7.32256l6.62517,-4.07292z'></path></g></svg></span>");
-	jQuery('ul.triangle_style').find('li').prepend("<span class='list-triangle'><svg class='svg-triangle' xmlns='https://www.w3.org/2000/svg'><g><path transform='rotate(90 13.262424468994142,14.855527877807617)' stroke-width='1' stroke-opacity='null' stroke='red' fill-opacity='0' fill='#fff' d='m7.35502,19.72045l5.90741,-9.72985l5.90741,9.72985l-11.81482,0z'></path></g></svg></span>");
+	jQuery('ul.hexagon_style').find('li').prepend("<span class='list-hexagon'><svg class='svg-hexagon' xmlns='http://www.w3.org/2000/svg'><g><path stroke-width='1' stroke-opacity='null' stroke='red' fill-opacity='0' fill='#fff' d='m8.62519,0.63895l6.62517,4.07292l0,7.32256l-6.62517,4.06325l-6.62517,-4.06325c0,-3.05108 0,-4.37804 0,-7.32256l6.62517,-4.07292z'></path></g></svg></span>");
+	jQuery('ul.triangle_style').find('li').prepend("<span class='list-triangle'><svg class='svg-triangle' xmlns='http://www.w3.org/2000/svg'><g><path transform='rotate(90 13.262424468994142,14.855527877807617)' stroke-width='1' stroke-opacity='null' stroke='red' fill-opacity='0' fill='#fff' d='m7.35502,19.72045l5.90741,-9.72985l5.90741,9.72985l-11.81482,0z'></path></g></svg></span>");
 }
 
 function cws_tooltip_init(){
